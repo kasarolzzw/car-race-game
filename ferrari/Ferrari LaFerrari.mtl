@@ -1,0 +1,850 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.3 6.3.3.8068
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Chrome
+Ka 0 0 0
+Kd 0.282353 0.282353 0.282353
+Ks 0.180706 0.180706 0.180706
+illum 2
+Ns 18.3792
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Partie_noir
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Jante_logo
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.131176 0.114118 0.0188235
+illum 2
+Ns 64
+map_Kd jantelogo.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Pneu
+Ka 0 0 0
+Kd 0.100078 0.100078 0.100078
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Pneu_text
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd rubber2.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Jante
+Ka 0 0 0
+Kd 0.506745 0.506745 0.506745
+Ks 0.385412 0.385412 0.385412
+illum 2
+Ns 14.9285
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Feux_ar
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.212745 0.0494118 0.0494118
+illum 2
+Ns 45.2548
+map_Kd lights_LOD0.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Feux_rouge_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.138235 0.0156863 0.0156863
+illum 2
+Ns 8
+map_Kd feuxred.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_carbone
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.0564706 0.0564706 0.0564706
+illum 2
+Ns 17.1484
+map_Kd carbonOK2.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Dessous
+Ka 0 0 0
+Kd 0.171373 0.171373 0.171373
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Plastique_noir
+Ka 0 0 0
+Kd 0.121569 0.121569 0.121569
+Ks 0.0206667 0.0206667 0.0206667
+illum 2
+Ns 64
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Metal_noir
+Ka 0 0 0
+Kd 0.172549 0.172549 0.172549
+Ks 0.0517647 0.0517647 0.0517647
+illum 2
+Ns 64
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Grille_moteur
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.02 0.02 0.02
+illum 2
+Ns 16
+map_Kd cgrille2.png
+map_bump 
+bump 
+map_opacity cgrille2alpha.png
+map_d cgrille2alpha.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Moteur_red
+Ka 0 0 0
+Kd 0.713726 0.0941176 0.0941176
+Ks 0.107059 0.0141176 0.0141176
+illum 2
+Ns 50.2134
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Moteur_gris
+Ka 0 0 0
+Kd 0.509804 0.509804 0.509804
+Ks 0.0968627 0.0968627 0.0968627
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Interieur_motor
+Ka 0 0 0
+Kd 0.144118 0.144118 0.144118
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Metal_alu
+Ka 0 0 0
+Kd 0.478431 0.478431 0.478431
+Ks 0.287059 0.287059 0.287059
+illum 2
+Ns 16
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Feux_chrome
+Ka 0 0 0
+Kd 0.192157 0.192157 0.192157
+Ks 0.125863 0.125863 0.125863
+illum 2
+Ns 64
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Vitre
+Ka 0 0 0
+Kd 0.184314 0.235294 0.227451
+Ks 0.110588 0.141176 0.136471
+illum 2
+Ns 16
+d 0.32
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Feux_stop
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.138235 0.0156863 0.0156863
+illum 2
+Ns 8
+d 0.9
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body
+Ka 0 0 0
+Kd 0.588235 0.054902 0.0941176
+Ks 0.470588 0.0439216 0.0752941
+illum 2
+Ns 29.8571
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_noir
+Ka 0 0 0
+Kd 0.0980392 0.0980392 0.0980392
+Ks 0.0656863 0.0656863 0.0656863
+illum 2
+Ns 32
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Phare
+Ka 0 0 0
+Kd 0.227451 0.227451 0.227451
+Ks 0.14898 0.14898 0.14898
+illum 2
+Ns 64
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Phare_blanc
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.113569 0.113569 0.113569
+illum 2
+Ns 8
+d 0.83
+map_Kd feuxblanc.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Phare_optique
+Ka 0 0 0
+Kd 0.313726 0.329412 0.337255
+Ks 0.100392 0.105412 0.107922
+illum 2
+Ns 16
+d 0.4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Phare_vitre
+Ka 0 0 0
+Kd 0.470588 0.509804 0.529412
+Ks 0.150588 0.163137 0.169412
+illum 2
+Ns 16
+d 0.3
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Miroir
+Ka 0 0 0
+Kd 0.254902 0.254902 0.254902
+Ks 0.152941 0.152941 0.152941
+illum 2
+Ns 64
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Clignotant
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.139118 0.0782941 0.0232941
+illum 2
+Ns 66.257
+d 0.96
+map_Kd clignotant.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Logo_Ferrari
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.122353 0.104118 0.0323529
+illum 2
+Ns 64
+map_Kd nodamage_LOD0.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Feux_blanc
+Ka 0 0 0
+Kd 0.387765 0.387765 0.387765
+Ks 0.0727059 0.0727059 0.0727059
+illum 2
+Ns 8
+d 0.83
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Feux_rouge
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.138235 0.0156863 0.0156863
+illum 2
+Ns 8
+d 0.9
+map_Kd feuxred.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Siege
+Ka 0 0 0
+Kd 0.627451 0.145098 0.145098
+Ks 0.12549 0.0290196 0.0290196
+illum 2
+Ns 22.6274
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Interieur_noir
+Ka 0 0 0
+Kd 0.192157 0.192157 0.192157
+Ks 0.0192157 0.0192157 0.0192157
+illum 2
+Ns 16
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Plastique_rouge
+Ka 0 0 0
+Kd 0.6 0.176471 0.188235
+Ks 0.09 0.0264706 0.0282353
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Interieur_HP
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.0270196 0.0270196 0.0270196
+illum 2
+Ns 64
+map_Kd grillecamhp.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Frein
+Ka 0 0 0
+Kd 0.513726 0.129412 0.129412
+Ks 0.0924706 0.0232941 0.0232941
+illum 2
+Ns 64
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Disk_noir
+Ka 0 0 0
+Kd 0.180392 0.180392 0.180392
+Ks 0.0306667 0.0306667 0.0306667
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Disk
+Ka 0 0 0
+Kd 0.25098 0.254902 0.247059
+Ks 0.0752941 0.0764706 0.0741177
+illum 2
+Ns 64
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Interieur_texture
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.0211765 0.0211765 0.0211765
+illum 2
+Ns 64
+map_Kd interior_LOD0.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Interieur_speed
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.00490196 0.00490196 0.00490196
+illum 2
+Ns 8
+map_Kd speed.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Interieur_alcantara
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.0200784 0.0200784 0.0200784
+illum 2
+Ns 9.18959
+map_Kd suedine.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Interieur_sol
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 4
+map_Kd moquette2.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Siege_couture
+Ka 0 0 0
+Kd 0.429882 0.0989412 0.0989412
+Ks 0 0 0
+illum 2
+Ns 4
+d 0.7
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Interieur_light
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.133333 0.133333 0.133333
+illum 2
+Ns 8
+d 0.84
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Plastique_gris
+Ka 0 0 0
+Kd 0.364706 0.364706 0.364706
+Ks 0.127647 0.127647 0.127647
+illum 2
+Ns 33.1285
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Interieur_ceinture
+Ka 0 0 0
+Kd 0.172549 0.172549 0.172549
+Ks 0.0189804 0.0189804 0.0189804
+illum 2
+Ns 16
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Grille_av
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.0129412 0.0129412 0.0129412
+illum 2
+Ns 8
+map_Kd cruze_grille.png
+map_bump 
+bump 
+map_opacity gitterrrr3dicker2.png
+map_d gitterrrr3dicker2.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Grille
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.00862745 0.00862745 0.00862745
+illum 2
+Ns 8
+map_Kd cruze_grille.png
+map_bump 
+bump 
+map_opacity gitterrrr3dicker2.png
+map_d gitterrrr3dicker2.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Grille_ar
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.00862745 0.00862745 0.00862745
+illum 2
+Ns 8
+map_Kd cruze_grille.png
+map_bump 
+bump 
+map_opacity gitterrrr3dicker2.png
+map_d gitterrrr3dicker2.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Feux_glass_rouge
+Ka 0 0 0
+Kd 0.501961 0 0
+Ks 0.301176 0 0
+illum 2
+Ns 45.2548
+d 0.38
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Feux_glass_blanc
+Ka 0 0 0
+Kd 0.713726 0.713726 0.713726
+Ks 0.428235 0.428235 0.428235
+illum 2
+Ns 45.2548
+d 0.33
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Explorer_Default
+Ka 0.117647 0.117647 0.117647
+Kd 0.752941 0.752941 0.752941
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
